@@ -1,34 +1,35 @@
-# Title (replace with your title)
-Introductory paragraph (replace this with your text)
+# Matching a URL
+This gist goes over how to understand using regex to match a URL.
 
 # Summary
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+The information below will go over how regex works when matching a URL.
+**/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/**
 
 # Table of Contents
-Anchors
-Quantifiers
-OR Operator
-Character Classes
-Flags
-Grouping and Capturing
-Bracket Expressions
-Greedy and Lazy Match
-Boundaries
-Back-references
-Look-ahead and Look-behind
+* Anchors
+* Quantifiers
+* OR Operator
+* Character Classes
+* Flags
+* Grouping and Capturing
+* Bracket Expressions
+* Greedy and Lazy Match
+* Boundaries
+* Back-references
+* Look-ahead and Look-behind
 
 # Regex Components
-Anchors
-Quantifiers
-OR Operator
-Character Classes
-Flags
-Grouping and Capturing
-Bracket Expressions
-Greedy and Lazy Match
-Boundaries
-Back-references
-Look-ahead and Look-behind
+* Anchors
+* Quantifiers
+* OR Operator
+* Character Classes
+* Flags
+* Grouping and Capturing
+* Bracket Expressions
+* Greedy and Lazy Match
+* Boundaries
+* Back-references
+* Look-ahead and Look-behind
 
 # Author
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+This was created by Kristin Earnest, follow my work on [Github](https://github.com/kearnest1).
